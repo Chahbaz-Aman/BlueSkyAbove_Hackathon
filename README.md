@@ -9,4 +9,4 @@ Project team:
 Running Procedure:
 >> 1. Clone the repository.<br />
 >>    This is necessary to download/save large satellite data files in the data/L2 folder.
->> 2. Run the [BlueSkyAbove_Solution.ipynb] (https://github.com/Chahbaz-Aman/BlueSkyAbove_Hackathon/blob/main/BlueSkyAbove_Solution.ipynb) notebook.
+>> 2. Run the [BlueSkyAbove_Solution.ipynb](https://github.com/Chahbaz-Aman/BlueSkyAbove_Hackathon/blob/main/BlueSkyAbove_Solution.ipynb) notebook.
