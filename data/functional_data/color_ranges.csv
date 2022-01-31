@@ -1,0 +1,7 @@
+,Land_Use,Low,High
+0,Local_Roads,[  0   0 200],[ 50   0 255]
+1,Highways,[  0  80 200],[ 50 200 255]
+2,Forests,[ 20  10 180],[ 90  70 255]
+3,Waterbodies,[ 90   0 200],[120 255 255]
+4,Settlements,[  0   0 200],[255  10 255]
+5,RailRoads,[ 0  0 90],[255  40 140]
