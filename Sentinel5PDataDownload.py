@@ -48,7 +48,7 @@ def saveProductNames(products_found):
         names.append(products_found[key]['title'])
 
     names = pd.Series(names, name='ProductFiles')
-    names.to_csv('satellite_data_filenames.csv', mode='w+', index=False) #overwite on any existing satellie_data_filenames.csv file
+    names.to_csv('data/functional_data/satellite_data_filenames.csv', mode='w+', index=False) #overwite on any existing satellie_data_filenames.csv file
     print('satellite_data_filenames.csv has been updated.')
 
     return None
